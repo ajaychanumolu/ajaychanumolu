@@ -50,15 +50,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaychanumolu&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaychanumolu&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
-</p>
 
-<p align="left">
+
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaychanumolu&theme=vision-friendly-dark" alt="GitHub Streak" />
 </p>
 
@@ -68,6 +66,11 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Ajay_chanumolu?theme=dark&font=baloo)](https://leetcode.com/u/Ajay_chanumolu/)
 
----
+<h3>🏅 LeetCode Badges</h3>
+<p>
+  <img src="https://leetcode.com/static/images/badges/dcc-2025-4.png" alt="LeetCode DCC Badge" width="120" />
+  <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="LeetCode Graph Badge" width="120" />
+</p>
+
 
 > “Learning never exhausts the mind — it fuels innovation.” 🚀
