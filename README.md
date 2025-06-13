@@ -31,10 +31,8 @@
   <a href="mailto:chanumoluajay@gmail.com" target="_blank">
     <img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Gmail - Ajay" height="30" width="40" />
   </a>
-  <a href="tel:+91807417736" target="_blank">
-    <img src="https://www.svgrepo.com/show/452085/phone.svg" alt="Call - Ajay" height="30" width="40" />
-  </a>
 </p>
+
 
 ---
 
