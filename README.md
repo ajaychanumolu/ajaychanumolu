@@ -18,12 +18,21 @@
 
 ### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/ajaychanumolu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Ajay" height="30" width="40" />
+
+
+
+<p align="left" style="display: flex; gap: 10px;">
+  <a href="https://linkedin.com/in/ajaychanumolu" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Ajay" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/Ajay_chanumolu/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - Ajay" height="30" width="40" />
+  <a href="https://leetcode.com/u/Ajay_chanumolu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - Ajay" height="30" width="40" />
+  </a>
+  <a href="mailto:chanumoluajay@gmail.com" target="_blank">
+    <img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Gmail - Ajay" height="30" width="40" />
+  </a>
+  <a href="tel:+91807417736" target="_blank">
+    <img src="https://www.svgrepo.com/show/452085/phone.svg" alt="Call - Ajay" height="30" width="40" />
   </a>
 </p>
 
