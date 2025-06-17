@@ -4,7 +4,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ajaychanumolu&label=Profile%20views&color=0e75b6&style=flat" alt="ajaychanumolu" />
 </p>
-
+<p align="center">
+  <a href="https://ajaychanumolu.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My-Portfolio-blue?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</p>
 ---
 
 ### 🧠 About Me
